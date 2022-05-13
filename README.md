@@ -1,5 +1,5 @@
-![header](![Fresh Blueberries Store Header](https://user-images.githubusercontent.com/91063081/168256608-afda2fe3-61c6-438c-b9db-6dcf61ee59e0.gif)
-)
+(https://user-images.githubusercontent.com/91063081/168256608-afda2fe3-61c6-438c-b9db-6dcf61ee59e0.gif)
+
 <div align="center">
 <h1> Hi there :relaxed: </h1>
 
