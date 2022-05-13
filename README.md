@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/91063081/168256608-afda2fe3-61c6-438c-b9db-6dcf61ee59e0.gif)
+[](![Fresh Blueberries Store Header](https://user-images.githubusercontent.com/91063081/168256860-b146977a-8ba3-40e5-8343-7c8f7418c480.gif)
 
 <div align="center">
 <h1> Hi there :relaxed: </h1>
