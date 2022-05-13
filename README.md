@@ -4,21 +4,26 @@
 <div align="center">
 <h1> Hi there :relaxed: </h1>
 
- I am Carla Cardozo! 🌱<br>
- living in Tenerife, Spain! 
+ <h2>I am Carla Cardozo! 🌱</h2><br>
+ <h3> living in Tenerife, Spain! </h3>
  <h3 align="center"> 🖥️  Software Developer |  Front-end  |  MERN Stack </h3>
-<br><br>
+<br>
+</em>
+
+---
 
 ### Connect with me:
 
-[<img align="left" alt="MarcelDurgante | LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />][linkedin]
-[<img align="left" alt="MarcelDurgante | Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />][facebook]
-[<img align="left" alt="MarcelDurgante | Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />][instagram]
+[<img align="center" alt="Carla | LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />][linkedin]
+
 
 <br />
+</em>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
+---
+
+<h3 align="center">Languages & Tools:</h3>
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -38,9 +43,17 @@
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="jest" height="40"/> </a>
 </p>
 
-[linkedin]: https://www.linkedin.com/in/marcel-dev/
-[facebook]: https://www.facebook.com/marceldurgante
-[instagram]: https://www.instagram.com/marceldurgante/
+[linkedin]: https://www.linkedin.com/in/carlacardozo/
 
+</em>
 
+---
+ 
+ <a href="https://github.com/cicu90/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cicu90&count_private=true&hide=stars&show_icons=true&theme=react&hide_border=true" />
+</a>
+ <a href="https://github.com/cicu90/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicu90&count_private=true&show_icons=true&theme=react&hide_border=true&layout=compact" />
+</a>
+ 
 </div>  
