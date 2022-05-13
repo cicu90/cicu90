@@ -1,4 +1,5 @@
-<p><img src="https://user-images.githubusercontent.com/91063081/168256860-b146977a-8ba3-40e5-8343-7c8f7418c480.gif)><p>
+![Fresh Blueberries Store Header](https://user-images.githubusercontent.com/91063081/168258910-05e145a7-5928-4fe3-9a6c-460589fb809d.gif)
+
 
 <div align="center">
 <h1> Hi there :relaxed: </h1>
