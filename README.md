@@ -5,7 +5,7 @@
 <h1> Hi there :relaxed: </h1>
 
  <h2>I am Carla Cardozo! 🌱</h2><br>
- <h3> living in Tenerife, Spain! </h3>
+ <h3> living in Talavera de la Reina, Spain! </h3>
  <h3 align="center"> 🖥️  Software Developer |  Front-end  |  MERN Stack </h3>
 <br>
 </em>
